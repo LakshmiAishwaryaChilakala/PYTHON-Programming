@@ -1,0 +1,13 @@
+# PYTHON-Programming
+sno=int(input("enter student no:"))
+enter student no:2
+name=input("enter name:")
+enter name:deepthi
+group=input("enter group")
+enter group datascience
+s1=int(input('enter ds'))
+enter ds45
+s2=int(input('enter stat;'))
+enter stat;50
+s3=int(input('enter cs;'))
+enter cs;50
