@@ -1,0 +1,12 @@
+# PYTHON-Programming
+sno=int(input("enter student no:"))
+name=input("enter name:")
+group=input("enter group:")
+s1=int(input('enter s1:'))
+s2=int(input('enter s2:'))
+s3=int(input('enter s3:'))
+if(s1&s2&s3>35):
+    print("PASS")
+else:
+    print("FAIL")
+
