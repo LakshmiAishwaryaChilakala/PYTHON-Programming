@@ -1,0 +1,19 @@
+# PYTHON-Programming
+
+''' GIVEN NUMBER IS AMSTRONG OR NOT '''
+--------------------------------------------
+
+n=int(input("enter a number:"))
+sum=0
+temp=n
+while(n>0):
+    x=n%10
+    sum+=x*x*x
+    n=n//10
+if sum==temp:
+    print("It is an armstrong number")
+else:
+    print("It is not a armstrong number")
+
+
+
